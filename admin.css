@@ -76,3 +76,15 @@ ul li a:hover{
     width: 50%;
     border-radius: 20px;
 }
+
+.teacher1{
+    width: 90%;
+    height: 300px;
+}
+
+.teacher_text1{
+    width: 90%;
+    font-size: medium;
+    padding-top: 10px;
+    text-align: center;
+}

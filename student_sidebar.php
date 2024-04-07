@@ -10,7 +10,7 @@
                     <a href="student_profile.php">My Profile</a>
                 </li>
                 <li>
-                    <a href="">My courses</a>
+                    <a href="courses.php">My courses</a>
                 </li>
             </ul>
         </aside>

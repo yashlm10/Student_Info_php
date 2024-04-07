@@ -27,7 +27,7 @@ session_start();
         <div class="content">
             <h1>Student Page</h1>
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquid quae tenetur labore fugiat vel nemo hic quibusdam magni suscipit facilis. Quod numquam qui harum explicabo, rem ducimus quis ipsam voluptatibus.</p>
-            <input type="text" > 
+          
         </div>
 
 
