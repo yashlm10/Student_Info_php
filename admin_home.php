@@ -27,11 +27,15 @@ session_start();
 
              include 'admin_sidebar.php';
         ?>
-        <div class="content">
+        <center>
+          <div class="content">
             <h1>ADMIN PAGE</h1>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquid quae tenetur labore fugiat vel nemo hic quibusdam magni suscipit facilis. Quod numquam qui harum explicabo, rem ducimus quis ipsam voluptatibus.</p>
-            <input type="text" > 
-        </div>
+            <br><br>
+            <p>The campus of NIT DURGAPUR spans 187 acres (0.75 km2).[9] [15] The main entrance is located on the eastern end of the campus, facing Mahatma Gandhi Road. The institute's academic facilities are located in the eastern half of the campus; these include the department buildings, laboratories and workshops, lecture halls, computer centres, and the central library.[16] The campus has separate buildings for the departments of Computer Science Engineering, Electronics and Communication Engineering, management, Chemistry, Biotechnology. Each department has its own library, in addition to the central library, which holds more than one lakh resources including books, periodicals, and journals in print and electronic format.</p>
+            <img src="https://iiab.me/kiwix/wikipedia_en_all_maxi_2022-05/I/NIT_Durgapur_Logo.svg.png.webp" alt="logo_nitdgp" >
+          </div>
+        </center>
+        
 
 
 
